@@ -1,5 +1,11 @@
 # Changelog
 
+## [7.6.1](https://github.com/npm/node-semver/compare/v7.6.0...v7.6.1) (2024-02-07)
+
+### Bug Fixes
+
+* [`ac9b357`](https://github.com/npm/node-semver/commit/ac9b35769ab0ddfefd5a3af4a3ecaf3da2012352) [#682](https://github.com/npm/node-semver/pull/682) typo in compareBuild debug message (#682) (@mbtools)
+
 ## [7.6.0](https://github.com/npm/node-semver/compare/v7.5.4...v7.6.0) (2024-01-31)
 
 ### Features
